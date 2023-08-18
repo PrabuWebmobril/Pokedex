@@ -1,0 +1,447 @@
+{
+  "pokemonDatas": [
+    {
+      "id": 2,
+      "name": "ivysaur",
+      "height": 10,
+      "weight": 130,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/2.png",
+      "abilities": [
+        "overgrow",
+        "chlorophyll"
+      ],
+      "type": "grass"
+    },
+    {
+      "id": 9,
+      "name": "blastoise",
+      "height": 16,
+      "weight": 855,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/9.png",
+      "abilities": [
+        "torrent",
+        "rain-dish"
+      ],
+      "type": "water"
+    },
+    {
+      "id": 37,
+      "name": "vulpix",
+      "height": 6,
+      "weight": 99,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/37.png",
+      "abilities": [
+        "flash-fire",
+        "drought"
+      ],
+      "type": "fire"
+    },
+    {
+      "id": 11,
+      "name": "metapod",
+      "height": 7,
+      "weight": 99,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/11.png",
+      "abilities": [
+        "shed-skin"
+      ],
+      "type": "bug"
+    },
+    {
+      "id": 52,
+      "name": "meowth",
+      "height": 4,
+      "weight": 42,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/52.png",
+      "abilities": [
+        "pickup",
+        "technician",
+        "unnerve"
+      ],
+      "type": "normal"
+    },
+    {
+      "id": 39,
+      "name": "jigglypuff",
+      "height": 5,
+      "weight": 55,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/39.png",
+      "abilities": [
+        "cute-charm",
+        "competitive",
+        "friend-guard"
+      ],
+      "type": "normal"
+    },
+    {
+      "id": 25,
+      "name": "pikachu",
+      "height": 4,
+      "weight": 60,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
+      "abilities": [
+        "static",
+        "lightning-rod"
+      ],
+      "type": "electric"
+    },
+    {
+      "id": 76,
+      "name": "golem",
+      "height": 14,
+      "weight": 3000,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/76.png",
+      "abilities": [
+        "rock-head",
+        "sturdy",
+        "sand-veil"
+      ],
+      "type": "rock"
+    },
+    {
+      "id": 56,
+      "name": "mankey",
+      "height": 5,
+      "weight": 280,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/56.png",
+      "abilities": [
+        "vital-spirit",
+        "anger-point",
+        "defiant"
+      ],
+      "type": "fighting"
+    },
+    {
+      "id": 18,
+      "name": "pidgeot",
+      "height": 15,
+      "weight": 395,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/18.png",
+      "abilities": [
+        "keen-eye",
+        "tangled-feet",
+        "big-pecks"
+      ],
+      "type": "normal"
+    },
+    {
+      "id": 54,
+      "name": "psyduck",
+      "height": 8,
+      "weight": 196,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/54.png",
+      "abilities": [
+        "damp",
+        "cloud-nine",
+        "swift-swim"
+      ],
+      "type": "water"
+    },
+    {
+      "id": 50,
+      "name": "diglett",
+      "height": 2,
+      "weight": 8,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/50.png",
+      "abilities": [
+        "sand-veil",
+        "arena-trap",
+        "sand-force"
+      ],
+      "type": "ground"
+    },
+    {
+      "id": 77,
+      "name": "ponyta",
+      "height": 10,
+      "weight": 300,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/77.png",
+      "abilities": [
+        "run-away",
+        "flash-fire",
+        "flame-body"
+      ],
+      "type": "fire"
+    },
+    {
+      "id": 87,
+      "name": "dewgong",
+      "height": 17,
+      "weight": 1200,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/87.png",
+      "abilities": [
+        "thick-fat",
+        "hydration",
+        "ice-body"
+      ],
+      "type": "water"
+    },
+    {
+      "id": 27,
+      "name": "sandshrew",
+      "height": 6,
+      "weight": 120,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/27.png",
+      "abilities": [
+        "sand-veil",
+        "sand-rush"
+      ],
+      "type": "ground"
+    },
+    {
+      "id": 12,
+      "name": "butterfree",
+      "height": 11,
+      "weight": 320,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/12.png",
+      "abilities": [
+        "compound-eyes",
+        "tinted-lens"
+      ],
+      "type": "bug"
+    },
+    {
+      "id": 134,
+      "name": "vaporeon",
+      "height": 10,
+      "weight": 290,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/134.png",
+      "abilities": [
+        "water-absorb",
+        "hydration"
+      ],
+      "type": "water"
+    },
+    {
+      "id": 70,
+      "name": "weepinbell",
+      "height": 10,
+      "weight": 64,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/70.png",
+      "abilities": [
+        "chlorophyll",
+        "gluttony"
+      ],
+      "type": "grass"
+    },
+    {
+      "id": 10,
+      "name": "caterpie",
+      "height": 3,
+      "weight": 29,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10.png",
+      "abilities": [
+        "shield-dust",
+        "run-away"
+      ],
+      "type": "bug"
+    },
+    {
+      "id": 150,
+      "name": "mewtwo",
+      "height": 20,
+      "weight": 1220,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/150.png",
+      "abilities": [
+        "pressure",
+        "unnerve"
+      ],
+      "type": "psychic"
+    },
+    {
+      "id": 14,
+      "name": "kakuna",
+      "height": 6,
+      "weight": 100,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/14.png",
+      "abilities": [
+        "shed-skin"
+      ],
+      "type": "bug"
+    },
+    {
+      "id": 152,
+      "name": "chikorita",
+      "height": 9,
+      "weight": 64,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/152.png",
+      "abilities": [
+        "overgrow",
+        "leaf-guard"
+      ],
+      "type": "grass"
+    },
+    {
+      "id": 19,
+      "name": "rattata",
+      "height": 3,
+      "weight": 35,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/19.png",
+      "abilities": [
+        "run-away",
+        "guts",
+        "hustle"
+      ],
+      "type": "normal"
+    },
+    {
+      "id": 13,
+      "name": "weedle",
+      "height": 3,
+      "weight": 32,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/13.png",
+      "abilities": [
+        "shield-dust",
+        "run-away"
+      ],
+      "type": "bug"
+    },
+    {
+      "id": 97,
+      "name": "hypno",
+      "height": 16,
+      "weight": 756,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/97.png",
+      "abilities": [
+        "insomnia",
+        "forewarn",
+        "inner-focus"
+      ],
+      "type": "psychic"
+    },
+    {
+      "id": 98,
+      "name": "krabby",
+      "height": 4,
+      "weight": 65,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/98.png",
+      "abilities": [
+        "hyper-cutter",
+        "shell-armor",
+        "sheer-force"
+      ],
+      "type": "water"
+    },
+    {
+      "id": 1,
+      "name": "bulbasaur",
+      "height": 7,
+      "weight": 69,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png",
+      "abilities": [
+        "overgrow",
+        "chlorophyll"
+      ],
+      "type": "grass"
+    },
+    {
+      "id": 7,
+      "name": "squirtle",
+      "height": 5,
+      "weight": 90,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/7.png",
+      "abilities": [
+        "torrent",
+        "rain-dish"
+      ],
+      "type": "water"
+    },
+    {
+      "id": 94,
+      "name": "gengar",
+      "height": 15,
+      "weight": 405,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/94.png",
+      "abilities": [
+        "cursed-body"
+      ],
+      "type": "ghost"
+    },
+    {
+      "id": 6,
+      "name": "charizard",
+      "height": 17,
+      "weight": 905,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/6.png",
+      "abilities": [
+        "blaze",
+        "solar-power"
+      ],
+      "type": "fire"
+    },
+    {
+      "id": 15,
+      "name": "beedrill",
+      "height": 10,
+      "weight": 295,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/15.png",
+      "abilities": [
+        "swarm",
+        "sniper"
+      ],
+      "type": "bug"
+    },
+    {
+      "id": 4,
+      "name": "charmander",
+      "height": 6,
+      "weight": 85,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png",
+      "abilities": [
+        "blaze",
+        "solar-power"
+      ],
+      "type": "fire"
+    },
+    {
+      "id": 129,
+      "name": "magikarp",
+      "height": 9,
+      "weight": 100,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/129.png",
+      "abilities": [
+        "swift-swim",
+        "rattled"
+      ],
+      "type": "water"
+    },
+    {
+      "id": 133,
+      "name": "eevee",
+      "height": 3,
+      "weight": 65,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/133.png",
+      "abilities": [
+        "run-away",
+        "adaptability",
+        "anticipation"
+      ],
+      "type": "normal"
+    },
+    {
+      "id": 143,
+      "name": "snorlax",
+      "height": 21,
+      "weight": 4600,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/143.png",
+      "abilities": [
+        "immunity",
+        "thick-fat",
+        "gluttony"
+      ],
+      "type": "normal"
+    },
+    {
+      "id": 153,
+      "name": "bayleef",
+      "height": 12,
+      "weight": 158,
+      "spriteURL": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/153.png",
+      "abilities": [
+        "overgrow",
+        "leaf-guard"
+      ],
+      "type": "grass"
+    }
+  ]
+}
